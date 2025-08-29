@@ -20,13 +20,12 @@ I plan to post more projects as I continue learning and building my skills. 🚀
 - **Other ⚙️:** Data Pipelines , ETL Processes  
 
 ---
-
 ## 📈 Projects
 Here are some of my projects:  
 
-- **[World_development_Indicators_notebook.ipynb](World_development_Indicators_notebook.ipynb)** – ML project predicting champions using match data.  
-- **[ETL Pipeline for F1 Data](https://github.com/MazarMoe/Data-Projects)** – Data engineering project using API extraction and transformation.  
-- **[Rig Utilization Dashboard](https://github.com/MazarMoe/Data-Projects)** – BI dashboard for offshore rigs in Power BI.  
+- **[Premier League Winner Predictions](https://github.com/MazarMoe/Data-Projects/blob/main/Premier%20League%20Winner%20Predictions%20.ipynb)** – ML project predicting champions using match data.  
+- **[ETL Pipeline for F1 Data](https://github.com/MazarMoe/Data-Projects/blob/main/Premier%20League%20Winner%20Predictions%20.ipynb)** – Data engineering project using API extraction and transformation.  
+- **[Rig Utilization Dashboard](https://github.com/MazarMoe/Data-Projects/blob/main/Premier%20League%20Winner%20Predictions%20.ipynb)** – BI dashboard for offshore rigs in Power BI.  
 
 *(More projects coming soon!)*
 

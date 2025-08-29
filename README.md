@@ -46,6 +46,6 @@ Here are some of my projects:
 ---
 
 ## ⚡ Hobbies
-Footbaall and motorcycling
+Football ⚽ and Motorcycling 🏍️
 
 

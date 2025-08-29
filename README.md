@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm MazarMoe
+# 👋 Hi there, I'm Mazar Elzain
 
 
 ![5BB0C805-8676-4A44-87C1-B71360A97876](https://github.com/user-attachments/assets/eafe9d65-6196-48e8-ac21-636a24395ac7)
@@ -13,7 +13,7 @@ I plan to post more projects as I continue learning and building my skills. 🚀
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 - **Languages 🗄️:** SQL, Python 
 - **Tools & BI Platforms 📊:** Spreadsheets, Looker Studio, Tableau 
@@ -24,7 +24,7 @@ I plan to post more projects as I continue learning and building my skills. 🚀
 ## 📈 Projects
 Here are some of my projects:  
 
-- **[Premier League Winner Predictions](World_development_Indicators_notebook.ipynb)** – ML project predicting champions using match data.  
+- **[World_development_Indicators_notebook.ipynb](World_development_Indicators_notebook.ipynb)** – ML project predicting champions using match data.  
 - **[ETL Pipeline for F1 Data](https://github.com/MazarMoe/Data-Projects)** – Data engineering project using API extraction and transformation.  
 - **[Rig Utilization Dashboard](https://github.com/MazarMoe/Data-Projects)** – BI dashboard for offshore rigs in Power BI.  
 

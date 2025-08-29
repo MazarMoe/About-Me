@@ -25,7 +25,7 @@ Here are some of my projects:
 
 - **[World Development Indicators](https://github.com/MazarMoe/Data-Projects/blob/main/World_development_Indicators_notebook.ipynb)** – Data  project using Python  visualizing important world development indicators.  
 
-- **[ETL Pipeline for F1 Data](https://github.com/MazarMoe/Data-Projects/blob/main/Premier%20League%20Winner%20Predictions%20.ipynb)** – Data engineering project using API extraction and transformation.
+- **[ETL Pipeline for F1 Data](https://github.com/MazarMoe/Data-Projects/blob/main/F1%20Race%20Data%20ETL%20Pipeline%20.ipynb)** – Data engineering project using API extraction and transformation.
 
 - **[Nepal, home of the Himalayas.ipynb](https://github.com/MazarMoe/Data-Projects/blob/main/Nepal%2C%20home%20of%20the%20Himalayas.ipynb)** –  Data visualization project exploring the tallest mountains in the Himalayas region.   
 
